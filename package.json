@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maxksum/C3_Yeusikau_GIT/issues"
   },
-  "homepage": "https://github.com/maxksum/C3_Yeusikau_GIT#readme"
+  "homepage": "https://github.com/maxksum/C3_Yeusikau_GIT#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
