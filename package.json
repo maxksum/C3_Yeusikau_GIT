@@ -2,9 +2,11 @@
   "name": "c3_yeusikau_git",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Yeusikau_git_1.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite":  "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "homepage": "https://github.com/maxksum/C3_Yeusikau_GIT#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "start": "^5.1.0"
   }
 }
